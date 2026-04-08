@@ -1,3 +1,3 @@
 print("hello world")
 
-print("Tôi là Đỗ Văn Quân")
+print("xu ly xung dot thanh cong")
